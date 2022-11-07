@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "599530807892",
+    "project_id": "braintrainer-bb447",
+    "storage_bucket": "braintrainer-bb447.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599530807892:android:221c1ca89a43c38ae1c3c1",
+        "android_client_info": {
+          "package_name": "com.example.mb.braintrainer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599530807892-o3516q553alhu6o152nd4r78hpev7epb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3JFRZ2LsShMsKQINwy9WQfNOfx9jWOjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599530807892-o3516q553alhu6o152nd4r78hpev7epb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
